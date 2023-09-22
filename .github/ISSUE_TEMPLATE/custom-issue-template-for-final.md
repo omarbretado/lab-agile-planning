@@ -1,6 +1,6 @@
 ---
-name: Template Story
-about: This template is for creating user stories
+name: Custom issue template for Final
+about: This template will be used for finals
 title: ''
 labels: ''
 assignees: ''
